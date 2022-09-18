@@ -9,7 +9,7 @@ import java.awt.event.*;
 
 public class CheckOut extends JFrame implements ActionListener {
 
-    Choice ccustomer;
+    Choice ccustomer; 
     JLabel lroomNumber, lcheckintime, lcheckoutTime;
     JButton checkout, back;
 
