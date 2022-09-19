@@ -17,7 +17,7 @@
 
 ![Screenshot 2022-09-18 220711](https://user-images.githubusercontent.com/95747934/190920266-801c1b8f-1c9c-4c99-8eb7-4372b018a667.png)
 
-5) In Dahsboard you are able to see at right corner i> Hotel Management and ii> Admin 
+5) In Dahsboard you are able to see at left corner i> Hotel Management and ii> Admin 
                       if you will be clicke on HOTEL MANAGEMENT  you will be able to see Reception MenuItem if you will be click on Reception the you will be able to see below window......
                       
 ![Screenshot 2022-09-18 220740](https://user-images.githubusercontent.com/95747934/190920488-44ec4dee-a882-459e-b56e-24aadbd44e50.png)
